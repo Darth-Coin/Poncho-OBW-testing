@@ -1,10 +1,13 @@
 # Private Hosted Channels with Poncho
 This is a draft guide regarding a system of [Hosted Channels](https://fanismichalakis.fr/posts/what-are-hosted-channels/) (HC) offered by Poncho.
-Introduction
+
+## Introduction
 
 The idea is to use the already existing liquidity pool from a RoF to offer private channels using the technology of Hosted Channels. This idea was based on [my article guide about Private LN banks that can be offered for private users](https://darthcoin.substack.com/p/bitcoin-private-banks-over-lightning), this time testing with a RoF as LSP source and see how can be scaled for a broader audience.
 
 We want to see how these hosted channels can be used at a large scale, linked to a RoF and can offer good routes to private users using private nodes on their mobiles (OBW).
+
+I think Poncho and Cliche, OBW are really underestimated LN tools. Especially for "privacy advocates", they don't know the real potential of these and also could help a lot in regards of  LN issues with liquidity, channel jamming, path finding, fees etc.
 
 The test will have 2 phases:
 - 1st phase - using a central Poncho node with various OBW HC clients, making some testing payments, out of the RoF but also between clients, nodes etc, testing all kind of possible payments.
