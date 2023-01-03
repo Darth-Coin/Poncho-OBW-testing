@@ -9,10 +9,10 @@ We want to see how these hosted channels can be used at a large scale, linked to
 
 I think Poncho and Cliche, OBW are really underestimated LN tools. Especially for "privacy advocates", they don't know the real potential of these and also could help a lot in regards of  LN issues with liquidity, channel jamming, path finding, fees etc.
 
-The test will have 2 phases:
+### The test will have 2 phases:
 - 1st phase - using a central Poncho node with various OBW HC clients, making some testing payments, out of the RoF but also between clients, nodes etc, testing all kind of possible payments.
 - 2nd phase - adding 1-2 new Poncho nodes to the RoF testing group. OBW have by default MPP, that means we can test even further payments taking multi-parts and routes and see how is going.
-- 3rd phase - optional, using [Cliche](https://github.com/nbd-wtf/cliche) as liquidity client of Poncho for any other node. Right now LNbits and LNTXBOT are using it as liquidity client. Act the same as OBW but in this case for a normal desktop node.
+- Optional (3rd phase), using [Cliche](https://github.com/nbd-wtf/cliche) as liquidity client of Poncho for any other node. Right now LNbits and LNTXBOT are using it as liquidity client. Act the same as OBW but in this case for a normal desktop node.
 
 ![image](https://user-images.githubusercontent.com/56997124/210340892-0f3c4fd7-e5a2-4835-9692-4aa681a9facf.png)
 Simple network scheme using HC for private mobile nodes
