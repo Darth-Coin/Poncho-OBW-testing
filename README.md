@@ -60,3 +60,5 @@ Yes, we already built a large network of public channels, now is time to take ca
 - Please use [this repository disscusion section](https://github.com/Darth-Coin/Poncho-OBW-testing/discussions/categories/tests) to post all testing steps and issues encountered. If users do not want to post their node / personal data, we can strikeout that and leave only what is important to debug. Or they can just post their findings / feedback in the TG group we created especially for testing group.
 - Please use this format as example to post your testing, as [I used in the testing for Blixt mobile wallet](https://github.com/hsjoberg/blixt-wallet/issues/1065).
 Indicate in details, what kind of payments you did, amounts, fees, time taken, routes / hops (if possible), destinations etc. So we can have a better understanding of the tests.
+
+This is an ongoing testing ground, so is not really necessary to be done in a certain time frame. These tests need time and we want to see how respond in various situations. So take your time, do them whenever you can or want, choosing specific timing as you want. Important is the feedback.
