@@ -25,6 +25,7 @@ What will be used in this testing phase:
 - [Poncho](https://github.com/nbd-wtf/poncho) to be installed in a CLN node
 - [OBW mobile app](https://github.com/nbd-wtf/obw) (only Android) to be installed on various devices. You can find it also on Play Store, but is better to use github repositories directly (see [releases](https://github.com/nbd-wtf/obw/releases)).
 - [OBW Manual guide](https://darthcoin.substack.com/p/obw-open-bitcoin-wallet) - detailed description and guide how to use OBW, already translated in other 3 languages.
+- [Cliche](https://github.com/nbd-wtf/cliche) - Poncho client for other nodes
 - [Hosted Channels TG group](https://t.me/hostedchannels) - in case we need to inform Fiatjaf about possible issues.
 - [OBW TG group](https://t.me/openbitcoinwallet) - in case we need to inform Fiatjaf about possible issues with OBW
 - [The discussion section of this repository](https://github.com/Darth-Coin/Poncho-OBW-testing/discussions) - where we can post all tests we've done, issues encountered etc.
