@@ -2,7 +2,7 @@
 This is a draft guide regarding a system of [Hosted Channels](https://fanismichalakis.fr/posts/what-are-hosted-channels/) (HC) offered by Poncho.
 Introduction
 
-The idea is to use the already existing liquidity pool from a RoF to offer private channels using the technology of Hosted Channels.
+The idea is to use the already existing liquidity pool from a RoF to offer private channels using the technology of Hosted Channels. This idea was based on [my article guide about Private LN banks that can be offered for private users](https://darthcoin.substack.com/p/bitcoin-private-banks-over-lightning)
 
 We want to see how these hosted channels can be used at a large scale, linked to a RoF and can offer good routes to private users using private nodes on their mobiles (OBW).
 
