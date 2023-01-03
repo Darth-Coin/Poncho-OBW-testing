@@ -17,7 +17,7 @@ The test will have 2 phases:
 ![image](https://user-images.githubusercontent.com/56997124/210340892-0f3c4fd7-e5a2-4835-9692-4aa681a9facf.png)
 Simple network scheme using HC for private mobile nodes
 
-What will be used in this testing phase:
+### What will be used in this testing phase:
 - An existing RoF, it doesn't matter the size, amount of liquidity or number of channels. Can be anyone, but at least with some basic knowledge managing LN channels, using LN mobile wallet OBW and offering detailed feeedback about payments using HC.
 - A "master of ceremony", a node runner with advanced knowledge in installing apps, plugins, in command line and managing hosted channels.
 - A node that will be used as main HCP (hosted channels provider), with Poncho installed. It can be also a LND node, but next to this LND must run a CLN. Or can be separate nodes, it doesn't matter. The idea is to have for this Poncho node the gate to the ring group that offers routes. If is already a CLN node in the RoF is better so we don't have to add a big channel between CLN+Poncho and LND gate to RoF. Is up to you how you find the better scheme.
