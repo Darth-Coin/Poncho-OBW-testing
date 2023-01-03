@@ -53,6 +53,16 @@ Right now we have many node runners, but they are moving mostly sats between rou
 
 Yes, we already built a large network of public channels, now is time to take care of private channels, mobile users, offering them those good routes.
 
+## Objectives
+After we finish this testing, if the results are satisfactory it can be extended to a larger audience and the node runners offering these kind of HC could have an incentive.
+- HCP (hosted channels providers) could be listed (if the want) in OBW app for public access
+- HCP can choose also their own audience with a selected list of private clients
+- HCP could earn fees from routing these payments of mobile users
+- HCP could offer private banks services with these HC
+- HCP also could offer inbound channels liquidity, listed in OBW, also as normal channels peers, but will have to be well selected based on their ranking.
+- Mobile users could have good peers and liquidity for their mobile private channels usage
+- LN could increase its usage for a broader audience and use cases.
+
 ## Installation and testing steps
 - If we do not have already a CLN node in the testing group, we can install one. Many bundle nodes could run LND + CLN on same machine. Or if is preffered a separate machine, also could be like that.
 - [Install Poncho](https://github.com/nbd-wtf/poncho) onto that CLN machine. Poncho for the moment works only with CLN. Maybe some good coder could adapt it for LND later. Define the parameters indicated in the installation instructions and assign the amount of HC you want to offer for each client.
