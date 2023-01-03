@@ -55,7 +55,7 @@ Yes, we already built a large network of public channels, now is time to take ca
 
 ## Objectives
 After we finish this testing, if the results are satisfactory it can be extended to a larger audience and the node runners offering these kind of HC could have an incentive.
-- HCP (hosted channels providers) could be listed (if the want) in OBW app for public access
+- HCP (hosted channels providers) could be listed (if they want) in OBW app for public access
 - HCP can choose also their own audience with a selected list of private clients
 - HCP could earn fees from routing these payments of mobile users
 - HCP could offer private banks services with these HC
