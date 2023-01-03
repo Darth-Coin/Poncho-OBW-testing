@@ -50,7 +50,7 @@ Right now we have many node runners, but they are moving mostly sats between rou
 
 Yes, we already built a large network of public channels, now is time to take care of private channels, mobile users, offering them those good routes.
 
-### Installation and testing steps
+## Installation and testing steps
 - If we do not have already a CLN node in the testing group, we can install one. Many bundle nodes could run LND + CLN on same machine. Or if is preffered a separate machine, also could be like that.
 - [Install Poncho](https://github.com/nbd-wtf/poncho) onto that CLN machine. Poncho for the moment works only with CLN. Maybe some good coder could adapt it for LND later. Define the parameters indicated in the installation instructions and assign the amount of HC you want to offer for each client.
 - Open a big channel, like min 10M sats to the LND node assigned to be the gate to the RoF. So practically this CLN node is using a single pipe to the RoF, could be even a private channel. If you want to use multiple channels, is up to you. But the is important that this pipe to be well linked to a pool of liquidity from a RoF, so can route well all the payments from multiple OBW clients, in and out.
