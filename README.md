@@ -1,5 +1,5 @@
 # Private Hosted Channels with Poncho
-This is a draft guide regarding a system of [Hosted Channels](https://fanismichalakis.fr/posts/what-are-hosted-channels/) (HC) offered by Poncho.
+This is a draft guide regarding a system of [Hosted Channels](https://fanismichalakis.fr/posts/what-are-hosted-channels/) (HC) offered by [Poncho](https://github.com/nbd-wtf/poncho) (plugin for CLN).
 
 ## Introduction
 
