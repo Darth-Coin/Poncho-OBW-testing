@@ -1,7 +1,7 @@
 # Private Hosted Channels with Poncho
 This is a draft guide regarding a system of testing [Hosted Channels](https://fanismichalakis.fr/posts/what-are-hosted-channels/) (HC) offered by [Poncho](https://github.com/nbd-wtf/poncho) (plugin for CLN) in a private manner. Later this scenario can be extended to a public offer of HC.
 
-This solution can also be extended to offer funding source backend (liquidity) for [LNbits instances](https://darthcoin.substack.com/p/getting-started-lnbits). Right now LNbits public demo instance is using Cliche as client for Poncho, funding the backend source. Many new LNbits users do not have a good LN node or a node at all, but want to use LNbits. Providing them a funding source with Poncho / Cliche is a very good simple solution.
+This solution can also be extended to offer funding source backend (liquidity) for [LNbits instances](https://darthcoin.substack.com/p/getting-started-lnbits). Right now [LNbits public demo instance](https://legend.lnbits.com) is using Cliche as client for Poncho, funding the backend source. Many new LNbits users do not have a good LN node or a node at all, but want to use LNbits. Providing them a funding source with Poncho / Cliche is a very good simple solution.
 
 ## Introduction
 
